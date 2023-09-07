@@ -1,4 +1,9 @@
-# cs386-a1
-CS386 Worksheet 2-1 Repo
+# MyCarDriver
+## Installation
+![](https://pypi.org/static/images/logo-small.95de8436.svg)
+[Pip](https://pypi.org/project/pip/)
 
-int num
+## Developers
+* _Sophia Ingram_
+* Ben Griepp
+* **Noah Gooby**
